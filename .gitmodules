@@ -1,3 +1,6 @@
 [submodule "Provided Repos/deep-learning-v2-pytorch"]
 	path = Provided Repos/deep-learning-v2-pytorch
 	url = https://github.com/udacity/deep-learning-v2-pytorch.git
+[submodule "Provided Repos/private-ai"]
+	path = Provided Repos/private-ai
+	url = https://github.com/udacity/private-ai.git
